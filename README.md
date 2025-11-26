@@ -1,18 +1,166 @@
+<!-- ──────────────────────────────────────────────────────────── -->
+<!--                        HEADER / INTRO                         -->
+<!-- ──────────────────────────────────────────────────────────── -->
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mikaeeil-jorjany-8424572b0?trk=contact-info) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mikaeeilj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23266450) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mikaeeiljorjany@proton.me) 
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="72px" alt="waving hand" />
+  <h1 align="center">✨ Mikaeeil Jorjany</h1>
+  <h3 align="center">Full-Stack .NET Developer • WPF Specialist • C# 14 Enthusiast • Future IoT Engineer</h3>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=michelle8362&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=michelle8362&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=michelle8362&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=00FFF0&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;I+Build+Elegant+Software.;WPF+%7C+C%23+%7C+IoT+%7C+Clean+Design;Aspiring+.NET+10+Developer" alt="animated-typing" />
+  </p>
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=michelle8362&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=michelle8362&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ──────────────────────────────────────────────────────────── -->
+<!--                           ABOUT ME                           -->
+<!-- ──────────────────────────────────────────────────────────── -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💼 About Me
+
+I’m **Mikaeeil Jorjany**, a dedicated developer who focuses on building clean, maintainable, and elegant desktop applications using **C#** and **WPF**. I enjoy learning new technologies and improving architecture and UX in every project.
+
+**Professional summary**
+- ✅ Strong in **C#**, **WPF**, **MVVM**, and desktop app design  
+- ✅ Comfortable with **EF Core**, SQL Server, Git and clean code practices  
+- 🎯 Studying advanced .NET and preparing for **.NET 10 + C# 14**  
+- 🚀 Next focus: **Internet of Things (IoT)** and broader .NET app scenarios  
+- 🎨 Design-minded: I value UI/UX and polished user experiences
+
+---
+
+<!-- ──────────────────────────────────────────────────────────── -->
+<!--                       SOCIALS / CONTACTS                     -->
+<!-- ──────────────────────────────────────────────────────────── -->
+
+# 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mikaeeil-jorjany-8424572b0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/23266450" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
+  </a>
+  <a href="https://kaggle.com/mikaeeiljorjany" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://www.hackerrank.com/michellejorjany" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://pinterest.com/mikaeeilj" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
+  </a>
+  <a href="mailto:Mikaeeiljorjany@proton.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/michelle8362" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<!-- ──────────────────────────────────────────────────────────── -->
+<!--                         TECH STACK                           -->
+<!-- ──────────────────────────────────────────────────────────── -->
+
+# 🛠 Tech & Tools
+
+<!-- Main Skill Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,rider,git,github,sqlserver,mysql,sqlite,linux,ubuntu,azure,html,css,js,bootstrap,maui,blazor,ps,ai,pr,ae,lr,unity,ffmpeg" />
+</p>
+
+<!-- Additional Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-Expert-00eaff?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%206-Advanced-8b00ff?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%2010-Learning-ff00ff?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-Master-00ffaa?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF%20Core-Strong-007ACC?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/NVIDIA-GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-Toolkit-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci-Resolve-1A1A1A?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tor-Browser-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white" />
+</p>
+
+---
+
+<!-- ──────────────────────────────────────────────────────────── -->
+<!--                        LEARNING PATH                         -->
+<!-- ──────────────────────────────────────────────────────────── -->
+
+# 🚀 Learning Path (selectable)
+
+- C# → Advanced C#  
+- .NET 6 → .NET 8 → **.NET 10 + C# 14**  
+- WPF (completed) → ASP.NET (next)
+
+---
+
+<!-- ──────────────────────────────────────────────────────────── -->
+<!--                          STATS                               -->
+<!-- ──────────────────────────────────────────────────────────── -->
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=michelle8362&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=michelle8362&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle8362&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- ──────────────────────────────────────────────────────────── -->
+<!--                  TOP CONTRIBUTED REPOSITORIES                -->
+<!-- ──────────────────────────────────────────────────────────── -->
+
+# 🧩 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=michelle8362&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<!-- ──────────────────────────────────────────────────────────── -->
+<!--                        TROPHIES                              -->
+<!-- ──────────────────────────────────────────────────────────── -->
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=michelle8362&theme=radical&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+<!-- ──────────────────────────────────────────────────────────── -->
+<!--                         FUN FACTS                            -->
+<!-- ──────────────────────────────────────────────────────────── -->
+
+# ✨ Fun Facts
+
+- I enjoy photography and capturing sunsets  
+- I prefer realistic stories and emotional, poetic themes  
+- I love learning small talk and improving communication skills  
+
+---
+
+<!-- ──────────────────────────────────────────────────────────── -->
+<!--                         FINAL NOTE                           -->
+<!-- ──────────────────────────────────────────────────────────── -->
+
+# 💫 Final Words
+
+> “I don’t just write code — I design experiences.”
+
+If you like my work, please ⭐ my repositories and feel free to reach out!
