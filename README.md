@@ -56,7 +56,7 @@ I’m **Mikaeeil Jorjany**, a dedicated developer who focuses on building clean,
   <a href="mailto:Mikaeeiljorjany@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/michelle8362" target="_blank">
+  <a href="https://github.com/migueljocode" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -109,12 +109,12 @@ I’m **Mikaeeil Jorjany**, a dedicated developer who focuses on building clean,
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=michelle8362&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=michelle8362&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=migueljocode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=migueljocode&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle8362&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueljocode&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -126,7 +126,7 @@ I’m **Mikaeeil Jorjany**, a dedicated developer who focuses on building clean,
 # 🧩 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=michelle8362&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=migueljocode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
@@ -138,7 +138,7 @@ I’m **Mikaeeil Jorjany**, a dedicated developer who focuses on building clean,
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=michelle8362&theme=radical&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=migueljocode&theme=radical&no-bg=true&margin-w=8" />
 </p>
 
 ---
