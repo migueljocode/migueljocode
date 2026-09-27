@@ -97,33 +97,10 @@ I'm **Mikaeeil Jorjany**, a dedicated developer focused on building clean, maint
 
 ---
 
-## 📊 GitHub Analytics
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=migueljocode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueljocode&theme=tokyonight&hide_border=true&date_format=M%%20j%%5B%%2C%%20Y%%5D" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueljocode&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=migueljocode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-    </td>
-  </tr>
-</table>
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=migueljocode&theme=tokyo-night&hide_border=true&area=true&color=00ffaa&point=fff&line=00ffaa" alt="Contribution Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=migueljocode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=migueljocode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
