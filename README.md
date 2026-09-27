@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,20,26,30,36&height=200&section=header&text=Hi%20there%2C%20I%27m%20Miguel%20Jocode%20👋&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=55&descAlign=50" alt="Header Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,20,26,30,36&height=200&section=header&text=Hi%20there%2C%20I%27m%20Mikaeeil%20Jorjany%20👋&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20.NET%20Developer%20%7C%20WPF%20Specialist%20%7C%20C%23%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner" width="100%">
 </p>
 
 <p align="center">
@@ -12,117 +12,99 @@
   <a href="https://github.com/migueljocode?tab=repositories">
     <img src="https://img.shields.io/github/stars/migueljocode?label=Stars&style=flat-square&color=f1c40f" alt="Total Stars" />
   </a>
-  <a href="https://github.com/migueljocode?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-10+-blue?style=flat-square" alt="Repositories" />
-  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/migueljocode/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mikaeeil-jorjany-8424572b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/migueljocode">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://stackoverflow.com/users/23266450" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
   </a>
-  <a href="mailto:mikaeeiljorjany@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://kaggle.com/mikaeeiljorjany" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://migueljocode.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="mailto:Mikaeeiljorjany@proton.me" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://dev.to/migueljocode">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  <a href="https://github.com/migueljocode" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 💼 About Me
 
+I'm **Mikaeeil Jorjany**, a dedicated developer focused on building clean, maintainable, and elegant desktop applications using **C#** and **WPF**. I enjoy learning new technologies and improving architecture and UX in every project.
 
+**Professional Summary**
+- ✅ Strong in **C#**, **WPF**, **MVVM**, and desktop app design
+- ✅ Comfortable with **EF Core**, SQL Server, Git and clean code practices
+- 🎯 Studying advanced .NET and preparing for **.NET 10 + C# 14**
+- 🚀 Next focus: **Internet of Things (IoT)** and broader .NET app scenarios
+- 🎨 Design-minded: I value UI/UX and polished user experiences
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>💡 What I Do</h3>
-      <ul>
-        <li>🌐 <strong>Full Stack Development</strong> — Building end-to-end web applications with modern frameworks</li>
-        <li>☁️ <strong>Cloud & DevOps</strong> — Deploying and managing applications on AWS/GCP/Azure</li>
-        <li>🔧 <strong>Developer Experience</strong> — Creating tools, CLI apps, and automation scripts</li>
-        <li>📱 <strong>API Design</strong> — REST, GraphQL, gRPC — clean, documented, and performant</li>
-        <li>🧪 <strong>Testing & Quality</strong> — TDD, CI/CD pipelines, code quality automation</li>
-        <li>🤝 <strong>Open Source</strong> — Contributing to and maintaining community projects</li>
-      </ul>
-      
-      <h3>🎯 Current Focus</h3>
-      <ul>
-        <li>Mastering <strong>Rust</strong> for systems programming</li>
-        <li>Deep diving into <strong>Distributed Systems</strong> & <strong>Microservices</strong></li>
-        <li>Exploring <strong>AI/ML integration</strong> in web applications</li>
-        <li>Building <strong>developer productivity tools</strong></li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=migueljocode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueljocode&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+### 🎯 Current Focus
+- Mastering **Advanced C#** and **.NET 10 / C# 14** features
+- Deep diving into **ASP.NET Core** for web development
+- Exploring **IoT** with .NET and embedded systems
+- Building **developer productivity tools** and automation
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxt,svelte,astro,html,css,tailwind,sass,styledcomponents" alt="Frontend" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastify,python,fastapi,django,go,rust,java,spring,kotlin" alt="Backend" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma,typeorm,drizzle" alt="Database" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,terraform,ansible,linux,nginx,githubactions,gitlabci,jenkins" alt="DevOps" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,vim,vscode,idea,postman,figma,notion,jira,vercel,netlify" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,rider,git,github,sqlserver,mysql,sqlite,linux,ubuntu,azure,html,css,js,bootstrap,maui,blazor,ps,ai,pr,ae,lr,unity,ffmpeg" alt="Tech Stack" />
+</p>
+
+### Proficiency Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-Expert-00eaff?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%206-Advanced-8b00ff?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%2010-Learning-ff00ff?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-Master-00ffaa?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF%20Core-Strong-007ACC?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/NVIDIA-GPU-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-Toolkit-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-1A1A1A?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tor%20Browser-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white" />
 </p>
 
 ### Architecture & Patterns
 | Category | Technologies |
 |----------|--------------|
-| **Architecture** | Microservices, Serverless, Event-Driven, CQRS, Event Sourcing |
-| **API Design** | REST, GraphQL (Apollo, Yoga), gRPC, tRPC, WebSockets |
-| **Testing** | Jest, Vitest, Playwright, Cypress, k6, TestContainers |
-| **Observability** | Prometheus, Grafana, Datadog, Sentry, OpenTelemetry, ELK Stack |
-| **Message Queues** | RabbitMQ, Kafka, Redis Streams, NATS, BullMQ |
-| **Authentication** | OAuth2/OIDC, JWT, NextAuth, Clerk, Auth0, Passport.js |
+| **Desktop Architecture** | MVVM, Clean Architecture, Dependency Injection, Repository Pattern |
+| **Data Access** | Entity Framework Core, LINQ, SQL Server, SQLite, Dapper |
+| **Web (Learning)** | ASP.NET Core, Blazor, MAUI, Minimal APIs |
+| **Testing** | xUnit, Moq, FluentAssertions, TestContainers |
+| **DevOps & Tools** | Git, GitHub Actions, Azure, Docker, Linux, PowerShell |
+| **Creative Tools** | DaVinci Resolve, Adobe Suite (PS, AI, PR, AE, LR), FFmpeg |
 
 ---
 
 ## 📊 GitHub Analytics
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueljocode&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-trophy.vercel.app/?username=migueljocode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=migueljocode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueljocode&theme=tokyonight&hide_border=true&date_format=M%%20j%%5B%%2C%%20Y%%5D" alt="GitHub Streak" height="180" />
+</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=migueljocode&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 Contribution Summary</h3>
-      <img src="https://github-contributor-stats.vercel.app/api?username=migueljocode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor Stats" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueljocode&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=migueljocode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=migueljocode&theme=tokyo-night&hide_border=true&area=true&color=00ffaa&point=fff&line=00ffaa" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=migueljocode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</p>
 
 ---
 
@@ -131,132 +113,84 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/migueljocode/awesome-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=migueljocode&repo=awesome-project&theme=tokyonight&hide_border=true" alt="Awesome Project" />
+      <a href="https://github.com/migueljocode/MobileShop">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=migueljocode&repo=MobileShop&theme=tokyonight&hide_border=true" alt="MobileShop" />
       </a>
       <br>
-      <strong>🚀 Awesome Project</strong> — A brief description of this amazing project. Built with Next.js, TypeScript, and PostgreSQL.
+      <strong>📱 MobileShop</strong> — ASP.NET Core inventory & sales system for a local mobile phone shop with IMEI-tracked stock and invoice generation.
+      <br><br>
+      <a href="https://github.com/migueljocode/MobileShop">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github" alt="View Repo" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/migueljocode/dev-toolkit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=migueljocode&repo=dev-toolkit&theme=tokyonight&hide_border=true" alt="Dev Toolkit" />
+      <a href="https://github.com/migueljocode/GymFlow">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=migueljocode&repo=GymFlow&theme=tokyonight&hide_border=true" alt="GymFlow" />
       </a>
       <br>
-      <strong>🔧 Dev Toolkit</strong> — CLI tool for boosting developer productivity. Written in Rust with zero dependencies.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/migueljocode/api-gateway">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=migueljocode&repo=api-gateway&theme=tokyonight&hide_border=true" alt="API Gateway" />
+      <strong>💪 GymFlow</strong> — Gym management and workout tracking application built with .NET technologies.
+      <br><br>
+      <a href="https://github.com/migueljocode/GymFlow">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github" alt="View Repo" />
       </a>
-      <br>
-      <strong>⚡ API Gateway</strong> — High-performance API gateway with rate limiting, auth, and observability built-in.
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/migueljocode/oss-contributions">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=migueljocode&repo=oss-contributions&theme=tokyonight&hide_border=true" alt="OSS Contributions" />
-      </a>
-      <br>
-      <strong>🤝 OSS Contributions</strong> — Collection of my open source contributions and PRs to popular projects.
     </td>
   </tr>
 </table>
 
-> 💡 **Note:** Replace the repository names above with your actual repositories once you push them!
+> 💡 **More projects:** Check out <a href="https://github.com/migueljocode?tab=repositories">all repositories</a> including WorkWithIO, EntityFramework, and UniversityProjects.
 
 ---
 
-## 🐍 Snake Game (Contributions Animation)
+## 🚀 Learning Path
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/migueljocode/migueljocode/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-> The snake above visualizes your contribution activity! It updates automatically via GitHub Actions.
+- C# → Advanced C#
+- .NET 6 → .NET 8 → **.NET 10 + C# 14**
+- WPF (completed) → ASP.NET Core (current focus) → MAUI → IoT with .NET
 
 ---
 
-## 📝 Latest Blog Posts
+## 📚 Reading & Tech News
 
-<!-- BLOG-POST-LIST:START -->
-- 📖 [Building Scalable Microservices with Go and gRPC](https://migueljocode.dev/blog/microservices-go-grpc)
-- 📖 [TypeScript Advanced Patterns You Should Know](https://migueljocode.dev/blog/typescript-advanced-patterns)
-- 📖 [Automating Your Development Workflow with GitHub Actions](https://migueljocode.dev/blog/github-actions-automation)
-- 📖 [Introduction to Rust for JavaScript Developers](https://migueljocode.dev/blog/rust-for-js-devs)
-- 📖 [Database Sharding Strategies for High-Scale Applications](https://migueljocode.dev/blog/database-sharding)
-<!-- BLOG-POST-LIST:END -->
+### 📖 Currently Reading
+- **C# 13 and .NET 9 – Modern Cross-Platform Development Fundamentals** by *Mark J. Price*
+- **The Linux Command Line: A Complete Introduction** by *William Shotts*
 
-> 📝 This section auto-updates via GitHub Actions from your RSS feed or dev.to profile!
+### 🔥 Following for Tech News
+- **Mark J. Price** – New C#/.NET book releases & updates
+- **.NET Blog** (devblogs.microsoft.com/dotnet) – Official .NET announcements
+- **C# Language Design** (github.com/dotnet/csharplang) – Upcoming C# features
+- **Phoronix** – Linux kernel, Mesa, hardware, Ubuntu/Debian news
+- **OMG! Ubuntu!** – Ubuntu & Debian-based distro updates
+- **It's FOSS** – Linux tutorials, command-line tips, open source news
+- **Linux Weekly News (LWN.net)** – Deep technical Linux kernel & ecosystem coverage
+- **The Register / Ars Technica** – General tech industry news
 
----
-
-## 🎮 Fun Stuff
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=migueljocode&theme=tokyonight" alt="Profile Details" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=migueljocode&theme=tokyonight" alt="Repos per Language" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=migueljocode&theme=tokyonight" alt="Most Commit Language" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=migueljocode&theme=tokyonight&utcOffset=0" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
+> 💡 *Want to discuss C# 14 features, Linux kernel updates, or .NET 10 preview? Open an issue or reach out!*
 
 ---
 
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://github.com/migueljocode">
-          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="GitHub" />
-        </a>
-        <br><strong>GitHub</strong>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.linkedin.com/in/migueljocode/">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="48" height="48" alt="LinkedIn" />
-        </a>
-        <br><strong>LinkedIn</strong>
-      </td>
-      <td align="center" width="96">
-        <a href="https://twitter.com/migueljocode">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="48" height="48" alt="Twitter/X" />
-        </a>
-        <br><strong>Twitter/X</strong>
-      </td>
-      <td align="center" width="96">
-        <a href="https://dev.to/migueljocode">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/devdotto.svg" width="48" height="48" alt="Dev.to" />
-        </a>
-        <br><strong>Dev.to</strong>
-      </td>
-      <td align="center" width="96">
-        <a href="https://stackoverflow.com/users/migueljocode">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" width="48" height="48" alt="Stack Overflow" />
-        </a>
-        <br><strong>Stack Overflow</strong>
-      </td>
-      <td align="center" width="96">
-        <a href="https://migueljocode.dev">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlechrome.svg" width="48" height="48" alt="Website" />
-        </a>
-        <br><strong>Website</strong>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/mikaeeil-jorjany-8424572b0/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="48" height="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/23266450" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackoverflow.svg" width="48" height="48" alt="StackOverflow" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kaggle.com/mikaeeiljorjany" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="48" height="48" alt="Kaggle" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:Mikaeeiljorjany@proton.me" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="48" height="48" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/migueljocode" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="48" height="48" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -269,33 +203,12 @@
 
 ---
 
-## 📊 WakaTime Stats (Coding Activity)
-
-<p align="center">
-  <a href="https://wakatime.com/@migueljocode">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=migueljocode&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-  </a>
-</p>
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueljocode&layout=donut&theme=tokyonight&hide_border=true" alt="Languages Donut" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=migueljocode&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Overall%20Stats" alt="Overall Stats" />
-    </td>
-  </tr>
-</table>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,20,26,30,36&height=100&section=footer&animation=twinkling" alt="Footer" width="100%">
 </p>
 
 <p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/migueljocode">Miguel Jocode</a> • Last updated: <span id="last-updated">Auto-updated via GitHub Actions</span></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/migueljocode">Mikaeeil Jorjany</a> • Last updated: <span id="last-updated">Auto-updated via GitHub Actions</span></sub>
 </p>
 
 <p align="center">
