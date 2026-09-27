@@ -57,7 +57,7 @@ I'm **Mikaeeil Jorjany**, a dedicated developer focused on building clean, maint
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,rider,git,github,sqlserver,mysql,sqlite,linux,ubuntu,azure,html,css,js,bootstrap,maui,blazor,ps,ai,pr,ae,lr,unity,ffmpeg" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,rider,git,github,sqlserver,mysql,sqlite,postgresql,linux,ubuntu,debian,azure,aws,html,css,js,ts,bootstrap,maui,blazor,ps,ai,pr,ae,lr,unity,ffmpeg,imagemagick,docker,kubernetes,nginx,redis,rabbitmq,kafka,grafana,prometheus" alt="Tech Stack" />
 </p>
 
 ### Proficiency Badges
@@ -72,6 +72,17 @@ I'm **Mikaeeil Jorjany**, a dedicated developer focused on building clean, maint
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-1A1A1A?style=for-the-badge&logo=davinciresolve&logoColor=white" />
   <img src="https://img.shields.io/badge/Tor%20Browser-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white" />
+  <img src="https://img.shields.io/badge/ImageMagick-6C8B5E?style=for-the-badge&logo=imagemagick&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Expert-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-Intermediate-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Beginner-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux%20(Debian/Ubuntu)-Advanced-E95420?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM%20Pattern-Master-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Strong-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dependency%20Injection-Expert-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repository%20Pattern-Master-2D3748?style=for-the-badge" />
 </p>
 
 ### Architecture & Patterns
@@ -88,18 +99,27 @@ I'm **Mikaeeil Jorjany**, a dedicated developer focused on building clean, maint
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=migueljocode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueljocode&theme=tokyonight&hide_border=true&date_format=M%%20j%%5B%%2C%%20Y%%5D" alt="GitHub Streak" height="180" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=migueljocode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueljocode&theme=tokyonight&hide_border=true&date_format=M%%20j%%5B%%2C%%20Y%%5D" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueljocode&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=migueljocode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueljocode&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="180" />
-  <img src="https://github-profile-trophy.vercel.app/?username=migueljocode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=migueljocode&theme=tokyo-night&hide_border=true&area=true&color=00ffaa&point=fff&line=00ffaa" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=migueljocode&theme=tokyo-night&hide_border=true&area=true&color=00ffaa&point=fff&line=00ffaa" alt="Contribution Graph" width="100%" />
 </p>
 
 <p align="center">
@@ -152,7 +172,7 @@ I'm **Mikaeeil Jorjany**, a dedicated developer focused on building clean, maint
 ## 📚 Reading & Tech News
 
 ### 📖 Currently Reading
-- **C# 13 and .NET 9 – Modern Cross-Platform Development Fundamentals** by *Mark J. Price*
+- **C# 14 and .NET 10 – Modern Cross-Platform Development Fundamentals** by *Mark J. Price*
 - **The Linux Command Line: A Complete Introduction** by *William Shotts*
 
 ### 🔥 Following for Tech News
