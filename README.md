@@ -201,5 +201,5 @@ I'm **Mikaeeil Jorjany**, a dedicated developer focused on building clean, maint
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,20,26,30,36&height=120&section=footer&animation=twinkling&text=Built%20with%20❤️%20by%20Mikaeeil%20Jorjany%20•%20Auto-updated%20via%20GitHub%20Actions&fontSize=14&fontColor=fff&desc=Star%20this%20repo%20⭐&descAlignY=85&descAlign=50" alt="Footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,20,26,30,36&height=160&section=footer&animation=twinkling&text=Built%20with%20❤️%20by%20Mikaeeil%20Jorjany%20•%20Auto-updated%20via%20GitHub%20Actions&fontSize=13&fontColor=fff&desc=Star%20this%20repo%20⭐&descAlignY=90&descAlign=50" alt="Footer" width="100%">
 </p>
