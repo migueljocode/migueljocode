@@ -201,15 +201,5 @@ I'm **Mikaeeil Jorjany**, a dedicated developer focused on building clean, maint
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,20,26,30,36&height=100&section=footer&animation=twinkling" alt="Footer" width="100%">
-</p>
-
-<p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/migueljocode">Mikaeeil Jorjany</a> • Last updated: <span id="last-updated">Auto-updated via GitHub Actions</span></sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/migueljocode/migueljocode">
-    <img src="https://img.shields.io/badge/Star%20this%20repo-⭐-yellow?style=for-the-badge" alt="Star this repo" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,20,26,30,36&height=120&section=footer&animation=twinkling&text=Built%20with%20❤️%20by%20Mikaeeil%20Jorjany%20•%20Auto-updated%20via%20GitHub%20Actions&fontSize=14&fontColor=fff&desc=Star%20this%20repo%20⭐&descAlignY=85&descAlign=50" alt="Footer" width="100%">
 </p>
