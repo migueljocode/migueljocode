@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,20,26,30,36&height=200&section=header&text=Hi%20there%2C%20I%27m%20Mikaeeil%20Jorjany%20👋&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20.NET%20Developer%20%7C%20WPF%20Specialist%20%7C%20C%23%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,20,26,30,36&height=200&section=header&text=Hi%20there%2C%20I%27m%20Mikaeeil%20Jorjany%20👋&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=20&desc=Full-Stack%20.NET%20Developer%20%7C%20WPF%20Specialist%20%7C%20C%23%20Enthusiast&descAlignY=45&descAlign=50" alt="Header Banner" width="100%">
 </p>
 
 <p align="center">
@@ -94,14 +94,6 @@ I'm **Mikaeeil Jorjany**, a dedicated developer focused on building clean, maint
 | **Testing** | xUnit, Moq, FluentAssertions, TestContainers |
 | **DevOps & Tools** | Git, GitHub Actions, Azure, Docker, Linux, PowerShell |
 | **Creative Tools** | DaVinci Resolve, Adobe Suite (PS, AI, PR, AE, LR), FFmpeg |
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=migueljocode&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 
 ---
 
@@ -201,5 +193,5 @@ I'm **Mikaeeil Jorjany**, a dedicated developer focused on building clean, maint
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,20,26,30,36&height=160&section=footer&animation=twinkling&text=Built%20with%20❤️%20by%20Mikaeeil%20Jorjany%20•%20Auto-updated%20via%20GitHub%20Actions&fontSize=13&fontColor=fff&desc=Star%20this%20repo%20⭐&descAlignY=90&descAlign=50" alt="Footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,17,20,26,30,36&height=160&section=footer&animation=twinkling&text=Built%20with%20❤️%20by%20Mikaeeil%20Jorjany%20•%20Auto-updated%20via%20GitHub%20Actions&fontSize=13&fontAlignY=70&fontColor=fff&desc=Star%20this%20repo%20⭐&descAlignY=90&descAlign=50" alt="Footer" width="100%">
 </p>
